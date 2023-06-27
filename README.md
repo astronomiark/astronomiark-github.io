@@ -1,1 +1,1 @@
-# astronomiark-github.io
+# astronomiark.github.io
